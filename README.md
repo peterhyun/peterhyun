@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a game physics & animation programmer who's currently learning how neural networks can expediate these fields.
+I'm currently in SMU Guildhall's MIT program and going to graduate in May 2024.
+Take a look at my work and feel free to contact me!
+
+Contact: jeehoonh@smu.edu
+
 <!--
 **peterhyun/peterhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
