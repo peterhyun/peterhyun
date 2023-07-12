@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a game physics & animation programmer who's currently learning how neural networks can expediate these fields.
+I'm a game physics & animation programmer.
 I'm currently in SMU Guildhall's MIT program and going to graduate in May 2024.
 Take a look at my work and feel free to contact me!
 
