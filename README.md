@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a game animation & ai programmer.
-I'm currently in SMU Guildhall's MIT program and going to graduate in May 2024.
-Take a look at my work and feel free to contact me!
+I'm currently working at Rockstar Games as Animation R&D Programmer.
+My main forte is C++ and GPU programming and optimization based on profiling.
+Projects here are from my undergraduate/graduate school program and repos for personal study purposes after work.
 
-Contact: jeehoonh@smu.edu
+Contact: jeehoonh@outlook.com
 
 <!--
 **peterhyun/peterhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
